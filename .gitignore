@@ -1,0 +1,15 @@
+# Environment Secrets
+.env
+
+# Environment / Dependencies Folders
+venv/
+env/
+node_modules/
+
+# System/OS Files
+.DS_Store
+Thumbs.db
+
+# Cache / Compiled Files
+__pycache__/
+.pytest_cache/
